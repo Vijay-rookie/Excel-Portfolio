@@ -19,3 +19,5 @@ The dashboard enables stakeholders to monitor performance by category, identify 
 that can be updated with new data regularly, making it a valuable tool for ongoing e-commerce analytics.
 
 ## Screenshots:
+![Dashboard](Screenshot%202026-01-11%20140843.png)
+![pivot](Screenshot%202026-01-11%20140924.png)
