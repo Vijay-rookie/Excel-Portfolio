@@ -17,3 +17,5 @@ various product categories—Fashion, Home and Furniture, Electronics, and Auto 
 ## Outcome: 
 The dashboard enables stakeholders to monitor performance by category, identify trends, and make informed business decisions. It serves as a scalable template 
 that can be updated with new data regularly, making it a valuable tool for ongoing e-commerce analytics.
+
+## Screenshots:
